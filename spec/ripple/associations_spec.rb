@@ -151,3 +151,4 @@ describe Ripple::Association do
     end
   end
 end
+/*zheshi wo ziji xiugai de bufen*/
